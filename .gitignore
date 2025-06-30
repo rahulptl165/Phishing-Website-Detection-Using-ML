@@ -1,0 +1,27 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook Metadata (optional, consider if you want to track changes in notebook output)
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Environment-specific files
+.env
+venv/
+env/
+
+# Data files (if they are too large or should not be version controlled)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Log files
+*.log
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Other temporary or generated files
+__pycache__/
+*.pyc

@@ -1,9 +1,11 @@
 from flask import Flask, render_template, request
 import joblib
+import os
 from feature_extractor import extract_features
 
 app = Flask(__name__)
-model = joblib.load('random_forest_model.pkl')
+model_path = os.path.join(os.path.dirname(__file__), 'random_forest_model.pkl')
+model = joblib.load(model_path)
 
 @app.route('/')
 def home():

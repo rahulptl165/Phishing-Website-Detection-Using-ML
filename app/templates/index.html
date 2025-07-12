@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h2>Phishing Website Detector</h2>
+    <h1>Phishing Website Detector</h1>
     <form method="POST" action="/predict">
         <input type="text" name="url" placeholder="Enter URL" required>
         <button type="submit">Check</button>
@@ -18,12 +18,5 @@
         </div>
     {% endif %}
 
-    
-    {% if features %}
-    <div class="result">
-        <h3>Extracted Features:</h3>
-        <p>{{ features }}</p>
-    </div>
-{% endif %}
 </body>
 </html>

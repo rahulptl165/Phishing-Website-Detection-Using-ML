@@ -95,6 +95,6 @@ python app.py
 ## ✍️ Authors
 Rahul Kumar   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;     Ayushmaan
 
-[💼 LinkedIn](https://www.linkedin.com/in/rahul-kumar-39051a351)   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;     [💼 LinkedIn]()
+[💼 LinkedIn](https://www.linkedin.com/in/rahul-kumar-39051a351)   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;     [💼 LinkedIn](https://www.linkedin.com/in/ayushmaan-tiwari-61126916b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [💻 GitHub](https://github.com/rahulptl165)     &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    [💻 GitHub](https://github.com/ayushmaan100)

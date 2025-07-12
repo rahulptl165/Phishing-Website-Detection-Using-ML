@@ -3,7 +3,7 @@ import joblib
 from feature_extractor import extract_features
 
 app = Flask(__name__)
-model = joblib.load('../model/random_forest_model.pkl')
+model = joblib.load('random_forest_model.pkl')
 
 @app.route('/')
 def home():
